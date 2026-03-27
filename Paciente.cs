@@ -7,6 +7,7 @@ public class Paciente()
     public string? nomePaciente;
     public string? idadePacienteString;
     public string? nivelDorString;
+    public string? prioridade; 
     public int idadePaciente;
     public int nivelDor; 
     public List<string> listaPaciente = new List<string>();
@@ -19,7 +20,6 @@ public class Paciente()
     //Adicionar paciente
     public void AdicionarPaciente()
     {   
-        Console.ForegroundColor = ConsoleColor.White;
         Console.WriteLine("Digite o nome do paciente: ");
         nomePaciente = Console.ReadLine() ?? "";
         Console.WriteLine("Digite a idade do paciente: ");
@@ -36,7 +36,7 @@ public class Paciente()
                 }
                 else
                 {
-                    Console.WriteLine("Dor do paciente não é um número");
+                    Console.WriteLine("Dor não identificada. Digite um número 0 a 10: ");
                 }
             }
             else
@@ -70,7 +70,6 @@ public class Paciente()
             Console.ResetColor();
             }
         
-
     }
 
     public void ListarPaciente()
@@ -79,9 +78,9 @@ public class Paciente()
         int contadorVerde = 0;
         listaPaciente = new List<string>();
 
-        foreach (var nomePaciente in listaVermelha)
+        foreach (var nome in listaVermelha)
         {
-            listaPaciente.Add(nomePaciente);
+            listaPaciente.Add(nome);
         }
         while (contadorAmarelo < listaAmarela.Count() || contadorVerde < listaVerde.Count())
         {   
@@ -94,10 +93,9 @@ public class Paciente()
             }
             listaPaciente.Add(listaVerde[contadorVerde]);
             contadorVerde++;
-            }
-    }
-    
-
+        }
+    }  
+   
     public void ChamarProximo()
     {
         //SABER O PRIMEIRO DA FILA

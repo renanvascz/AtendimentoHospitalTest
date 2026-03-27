@@ -1,0 +1,15 @@
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\bin\Debug\net10.0\HospitalAtendimentoTest.exe
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\bin\Debug\net10.0\HospitalAtendimentoTest.deps.json
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\bin\Debug\net10.0\HospitalAtendimentoTest.runtimeconfig.json
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\bin\Debug\net10.0\HospitalAtendimentoTest.dll
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\bin\Debug\net10.0\HospitalAtendimentoTest.pdb
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.AssemblyInfoInputs.cache
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.AssemblyInfo.cs
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.csproj.CoreCompileInputs.cache
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.sourcelink.json
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.dll
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\refint\HospitalAtendimentoTest.dll
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.pdb
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\HospitalAtendimentoTest.genruntimeconfig.cache
+C:\Users\RenandeVasconcelosTa\Documents\HospitalAtendimentoTest\obj\Debug\net10.0\ref\HospitalAtendimentoTest.dll
